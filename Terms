@@ -7,5 +7,19 @@
 <body>
     <h1>利用規約</h1>
     <p>ここに利用規約の内容を記述します。</p>
+
+    <h2>利用規約PDF</h2>
+    
+    <h3>中国語版</h3>
+    <embed src="https://raw.githubusercontent.com/KUROIKA-0000/KUROIKA-0000.github.io/main/20241021013403vn3license_zh.pdf" type="application/pdf" width="100%" height="600px" />
+
+    <h3>韓国語版</h3>
+    <embed src="https://raw.githubusercontent.com/KUROIKA-0000/KUROIKA-0000.github.io/main/20241021013403vn3license_ko.pdf" type="application/pdf" width="100%" height="600px" />
+
+    <h3>日本語版</h3>
+    <embed src="https://raw.githubusercontent.com/KUROIKA-0000/KUROIKA-0000.github.io/main/20241021013403vn3license_ja.pdf" type="application/pdf" width="100%" height="600px" />
+
+    <h3>英語版</h3>
+    <embed src="https://raw.githubusercontent.com/KUROIKA-0000/KUROIKA-0000.github.io/main/20241021013403vn3license_en.pdf" type="application/pdf" width="100%" height="600px" />
 </body>
 </html>
